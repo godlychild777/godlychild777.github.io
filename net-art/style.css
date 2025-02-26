@@ -1,0 +1,92 @@
+
+        #container {
+            width: 1600px;
+            margin: 0 auto; 
+            padding: 20px;
+            height: 900px;
+        }
+
+
+
+.red1{ position: absolute;
+        top: 30px;
+        right: 300px;}
+
+
+.red2{ position: absolute;
+    top: 100px;
+    right: 10pxx;}
+
+.red3{ position: absolute;
+    top: 100px;
+    right: 900px;}
+
+.red4{ position: absolute;
+    bottom: 100px;
+    left: 600px;
+    top: 580px;
+   
+   
+}
+.red5{ position: absolute;
+    bottom: 50px;
+    left: 700px;}
+
+.red6{ position: absolute; 
+    top: 500px;
+    right: 1000px
+}
+body{ width: 1000px; height: 500px; }
+.yellow1{ position: absolute;
+        top: 30px;
+        right: 550px;z-index: 10; }
+
+.yellow2{ position: absolute;
+    top: 1px;
+    right: 500px;}
+
+.yellow3{ position: absolute;
+    top: 100px;
+    right: 900px;}
+
+.yellow4{ position: absolute;
+    bottom: 2500px;
+    left: 600px;
+    top: 700px; 
+}
+.yellow5{ position: absolute;
+    bottom: 50px;
+    left: 700px;}
+
+.yellow6{ position: absolute; 
+    top: 400px;
+    right: 100px
+}
+
+.green1{ position: absolute;
+        top: 30px;
+        right: 50px;}
+
+.green2{ position: absolute;
+    top: 1px;
+    right: 50px;}
+
+.green3{ position: absolute;
+    top: 100px;
+    right: 800px;}
+
+.green4{ position: absolute;
+    bottom: 2500px;
+    left: 600px;
+    top: 700px; 
+}
+.green5{ position: absolute;
+    bottom: 50px;
+    left: 700px;}
+
+.h2{ text-align:center;
+    size: auto;
+   text-decoration-line: underline;   
+z-index: 20;}
+
+
